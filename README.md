@@ -16,7 +16,7 @@ https://www.atlassian.com/git/tutorials/dotfiles
 
 [Notification manager - Dunst](https://wiki.gentoo.org/wiki/Dunst) 
  
-[Clipboard manager - Parcellite](https://packages.gentoo.org/packages/x11-misc/parcellite)  
+[Clipboard manager - xclip]()  
 
 [Panel - polybar](https://wiki.gentoo.org/wiki/Polybar)(theme - [catppuccin]()
  
@@ -57,7 +57,7 @@ Alacritty
 neovim
 rofi
 dunst
-Parcellite
+xclip
 feh
 zsh
 zsh-completions
