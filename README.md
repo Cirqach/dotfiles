@@ -88,7 +88,7 @@ grep
 ohmyzsh
 polybar
 
-
+https://smarttech101.com/how-to-configure-picom-in-linux/
 
 ## Necessary install
 
