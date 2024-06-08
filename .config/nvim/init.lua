@@ -1,2 +1,2 @@
-require('Cirkach228.options')
-require('Cirkach228.lazy')
+-- bootstrap lazy.nvim, LazyVim and your plugins
+require("config.lazy")
